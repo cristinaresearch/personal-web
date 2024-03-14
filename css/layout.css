@@ -34,7 +34,7 @@ body {
 
 #portfolio-header {
   display: flex;
-  gap: 20px;
+  gap: 10px;
   align-items: center;
 }
 
@@ -54,11 +54,9 @@ body {
   display: flex;
   flex-direction: column;
   gap: 34px;
+  margin:30px;
   flex-basis: 50%;
 }
-
-
-
 
 /* About Section */
 

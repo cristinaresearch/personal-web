@@ -93,8 +93,18 @@ a.no-underline {
   color: black
 }
 
+a.enlace {
+  text-decoration: none;
+  color: black
+}
+
+
+a.enlace:hover {
+  background-color: rgb(0, 247, 255);
+  color: black
+}
+
 a.no-underline:hover {
-  text-decoration: underline;
   cursor: pointer;
 }
 

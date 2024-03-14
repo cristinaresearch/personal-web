@@ -1,6 +1,8 @@
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans","Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5; /* Increase the line spacing between paragraphs */
 }
+
 
 .nav-title {
   font-weight: 700;
@@ -20,16 +22,23 @@ body {
 .main-title {
   font-size: 40px;
   font-weight: 700;
+  gap:30px;
 }
 
 .subheader-text {
   font-size: 20px;
   font-weight: 700;
+  gap:30px;
 }
 
 .body-text {
   font-size: 16px;
   font-weight: 500;
+}
+
+.credit{
+  font-family: "Comissioner","Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: grey
 }
 
 .project-card-text {
